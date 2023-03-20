@@ -1,2 +1,11 @@
 # tech_talk
-Присоединяетесть к tech talk. Дзен: https://dzen.ru/techtalk Telegram: https://t.me/techtalk_news
+Tech Talk - это блог о технологиях и программировании.
+Здесь можно найти статьи, новости, советы и юмор на разные темы:
+♩ от языков до систем
+♩ от веба до машин
+♩ от карьеры до философии кода
+Присоединяйтесь к Tech Talk.
+
+Дзен: https://dzen.ru/techtalk Telegram: https://t.me/techtalk_news
+
+Давайте познавать новое вместе.
