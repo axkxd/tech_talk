@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  tech_talk:
+    build: .
+    image: tech_talk:alpha08
+    container_name: tech_talk
+    restart: on-failure
+    command: python manage.py runserver 0.0.0.0:8088
+    volumes:
+      - "./tech_talk/:/tech_talk/"
+    ports:
+      - 8088:8088
